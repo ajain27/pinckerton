@@ -1,5 +1,5 @@
 import SearchResults from "./SearchResults";
-import SideBar from "./Sidebar";
+import SideBar from "./sidebar/Sidebar";
 import { Row, Col } from "react-bootstrap";
 
 export default function Willow() {
