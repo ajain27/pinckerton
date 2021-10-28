@@ -2,4 +2,30 @@
   height: 100vh;
   border: 1px solid #383838;
   background-color: #252525;
+  text-align: left;
+  padding: 10px;
+}
+
+.filterHeading {
+  text-transform: uppercase;
+  color: #7e7e7e;
+}
+
+.filters {
+  height: 200px;
+  /* border: 1px solid red; */
+  width: 300px;
+}
+
+.card {
+  background-color: #252525;
+  color: #7e7e7e;
+}
+.card-building {
+  background-color: #252525;
+  color: #7e7e7e;
+  cursor: pointer;
+}
+.card-building:hover {
+  background-color: #383838;
 }
