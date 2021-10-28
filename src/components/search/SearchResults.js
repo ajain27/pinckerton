@@ -47,7 +47,6 @@ export default function SearchResults() {
           Search
         </Button>
       </div>
-
       <div fluid className="willowSearch">
         {searchResults && searchResults.length > 0 && (
           <Results data={searchResults} />

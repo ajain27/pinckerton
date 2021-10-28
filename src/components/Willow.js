@@ -1,4 +1,4 @@
-import SearchResults from "./SearchResults";
+import SearchResults from "./search/SearchResults";
 import SideBar from "./sidebar/Sidebar";
 import { Row, Col } from "react-bootstrap";
 

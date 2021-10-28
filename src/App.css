@@ -3,3 +3,7 @@
   background-color: #252525;
   color: #a4a5a6;
 }
+.willowApp {
+  display: flex;
+  padding: 5px;
+}
