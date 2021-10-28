@@ -1,7 +1,6 @@
 .sidebar {
   height: 100vh;
   border: 1px solid #383838;
-  background-color: #252525;
   text-align: left;
   padding: 10px;
 }
@@ -13,7 +12,6 @@
 
 .filters {
   height: 200px;
-  /* border: 1px solid red; */
   width: 300px;
 }
 

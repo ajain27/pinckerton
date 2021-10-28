@@ -31,20 +31,23 @@ export default function SearchResults() {
 
   return (
     <>
-      <input
-        type="text"
-        className="mx-2 txtSearch"
-        onChange={handleSearchTermChange}
-        placeholder="Willow Search"
-      />
-      <Button
-        type="button"
-        variant="secondary"
-        className="btnSearch"
-        onClick={handleSearch}
-      >
-        Search
-      </Button>
+      <div className="minWidth300">
+        <input
+          type="text"
+          className="mx-2 txtSearch"
+          onChange={handleSearchTermChange}
+          placeholder="Willow Search"
+        />
+        <Button
+          type="button"
+          variant="secondary"
+          className="btnSearch"
+          onClick={handleSearch}
+        >
+          Search
+        </Button>
+      </div>
+
       <div fluid className="willowSearch">
         {searchResults && searchResults.length > 0 && (
           <Results data={searchResults} />
