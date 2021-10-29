@@ -1,0 +1,54 @@
+[
+    {
+      "id":  5117,
+      "name":  "Detectors"
+    },  
+    {
+      "id": 5118,
+      "name":  "Speakers"
+    },  
+    {
+      "id":  5119,
+      "name":  "Manual Call Point"
+    },  
+    {
+      "id":  5120,
+      "name":  "Supp Hydrants"
+    },  
+    {
+      "id":  5123,
+      "name":  "Valves"
+    },  
+    {
+      "id":  5124,
+      "name":  "Plumbing Fixtures"
+    },  
+    {
+      "id":  5125,
+      "name":  "DHWU"
+    },  
+    {
+      "id":  5126,
+      "name":  "BWUs"
+    },  
+    {
+      "id":  5127,
+      "name":  "Pumps"
+    },  
+    {
+      "id":  5130,
+      "name":  "Tanks"
+    },  
+    {
+      "id":  5140,
+      "name":  "Walls"
+    },  
+    {
+      "id":  5149,
+      "name":  "Columns"
+    },  
+    {
+      "id":  5150,
+      "name":  "Beams"
+    }
+  ]

@@ -1,0 +1,18 @@
+
+[
+    {
+      "id": 3010,
+      "name": "151 Clarence St ",
+      "city":  "Sydney"
+    },
+    {
+      "id": 3012,
+      "name": "567 Collins St",
+      "city":  "Melbourne"
+    },
+    {
+      "id": 3025,
+      "name": "60 Martin Place",
+      "city":  "Sydney"
+    }
+  ]

@@ -11,6 +11,7 @@ export default function SearchResults() {
   const URL = "https://pinkerton-api.azurewebsites.net/search";
   const body = {
     searchText: searchTerm,
+    // filter: [{"name": "CategoryId", "value": "6516"}, {"name": "City", "value": "Melbourne"}]
   };
 
   function handleSearchTermChange(e) {
