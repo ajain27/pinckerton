@@ -25,3 +25,8 @@
 .card-building:hover {
   background-color: #383838;
 }
+.list-group-item.active {
+  border-color: transparent;
+  background-color: #383838;
+}
+
